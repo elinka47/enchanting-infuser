@@ -1,8 +1,8 @@
 {
   "block.enchantinginfuser.advanced_enchanting_infuser": "上級付呪注入器",
-  "block.enchantinginfuser.description.choose": "装備のエンチャントを選択",
-  "block.enchantinginfuser.description.chooseAndModify": "装備のエンチャントを選択、変更、削除する",
-  "block.enchantinginfuser.description.repair": "レベルを消費して装備を修理する",
+  "block.enchantinginfuser.description.choose": "エンチャントを選択できる",
+  "block.enchantinginfuser.description.chooseAndModify": "エンチャントを選択、変更、削除できる",
+  "block.enchantinginfuser.description.repair": "レベルを消費して装備を修理できる",
   "block.enchantinginfuser.enchanting_infuser": "付呪注入器",
   "gui.enchantinginfuser.tooltip.change": "%s -> %s",
   "gui.enchantinginfuser.tooltip.current_enchanting_power": "現在のエンチャントパワー: %s / %s",
